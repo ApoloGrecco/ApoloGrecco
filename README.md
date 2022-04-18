@@ -36,7 +36,7 @@
 
  <div align="center" style="display: inline_block"> 
  <a href = "mailto:apolo.argolo@gmail.com"><img height="22" src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/apolo-menezes-8008b0150/" target="_blank"><img height="22" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/apolomenezes" target="_blank"><img height="22" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div> 
 
 <div align="center">
