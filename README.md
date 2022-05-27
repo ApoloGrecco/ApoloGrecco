@@ -4,12 +4,15 @@
 
 
 - 😄 Ele/Dele
-    <img width="450" height="270" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align=right>
 - 🔭 Atualmente trabalhando como Cloud and Cognitive Intern na  <a href="https://www.ibm.com">IBM</a>
 - 🌱 Estudando muito Python, ETL e BD
 - 🤔 Estou sempre disposto a ajudas/dicas na área de programação e data science
 - 💬 Me pergunte sobre Data Science e AI - Que fico feliz em ajudar e aprender junto com você :D
 - ⚡ Curiosidade sobre mim <b>Sou um portador de TDAH, então ao longo da vida tive diversos hobbies aleatórios até me encontrar em Data Science (Python e PostgreSQL foram amor a primeira vista k)</b>
+
+<h1 align="center">
+ <img width="650" height="270" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+</h1>
 
 ##
 
