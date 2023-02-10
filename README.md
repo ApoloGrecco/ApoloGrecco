@@ -4,7 +4,7 @@
 
 
 - 😄 Ele/Dele
-- 🔭 Atualmente trabalhando como Cloud and Cognitive Intern na  <a href="https://www.ibm.com">IBM</a>
+- 🔭 Atualmente trabalhando como Software Specialist na  <a href="https://www.ibm.com">IBM</a>
 - 🌱 Estudando muito Python, ETL e BD
 - 🤔 Estou sempre disposto a ajudas/dicas na área de programação e data science
 - 💬 Me pergunte sobre Data Science e AI - Que fico feliz em ajudar e aprender junto com você :D
